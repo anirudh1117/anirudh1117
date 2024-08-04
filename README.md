@@ -39,10 +39,6 @@ If you're looking for a front-end developer who brings passion, experience, and 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh1117&show_icons=true&locale=en&layout=compact" alt="anirudh1117" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudh1117&show_icons=true&locale=en" alt="anirudh1117" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh1117&" alt="anirudh1117" /></p>
-
 <h3 align="left">Portfolio:</h3>
 <p align="left"><a href="https://anirudhmittal.vercel.app/" target="_blank">Visit My Portfolio</a></p>
 
