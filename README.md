@@ -17,9 +17,15 @@ I am currently based in Gurgaon, India, bringing a robust background in software
 
 💬 **Ask Me About:** Web development, system architectures, integrating complex systems, and best practices in coding.
 
+<h3 align="left">Connect with me:</h3>
+
 📫 **Reach Out To Me At:** [anirudhmittal1117@gmail.com](mailto:anirudhmittal1117@gmail.com)
 
 📄 **Learn About My Experiences:** [LinkedIn Profile](https://www.linkedin.com/in/anirudh-mittal-a1908013a)
+
+<a href="https://x.com/anirudh_mi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirudh_mi" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/anirudh1117/" target="_blank"><img align="center" src="https://cp-logo.vercel.app/leetcode/anirudh1117" alt="anirudh1117" height="30" width="40" /></a>
 
 ### What I Bring to the Table
 - **Proven Experience:** From enhancing customer care applications to developing responsive and dynamic interfaces for complex systems.
@@ -32,20 +38,6 @@ If you're looking for a full-stack developer who brings passion, experience, and
 
 <p align="left"> <a href="https://github.com/anirudh1117/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh1117" alt="anirudh1117" /></a> </p>
 
-
-- 🔭 I’m currently working on an application. 
-- 🌱 I’m currently practicing React JS by building applications.
-- 💬 Ask me about Web Development.
-- 📫 How to reach me: anirudhmittal1117@gmail.com
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/anirudh_mi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirudh_mi" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/anirudh-mittal-a1908013a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="Anirudh Miital" height="30" width="40" /></a>
-
-</p>
 
 <h3 align="left">My Tech Stack</h3>
 <p align="left">
