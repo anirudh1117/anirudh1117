@@ -2,21 +2,36 @@
 
 <h2 align="left">About Me 👨</h2>
 
-<p align="left">I'm a front-end developer passionate about creating beautiful and functional web applications. My expertise includes HTML, CSS, Tailwind CSS, JavaScript, and TypeScript.
+<h1 align="center">Hi there, I'm Anirudh Mittal 👋</h1>
 
-I have a strong understanding of front-end development principles and have gained experience in building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for merging HTML and CSS to craft visually appealing layouts. Additionally, I have experience in integrating front-end components with Ruby on Rails back-end systems.
+<h3 align="center">A dedicated Senior R&D Engineer at Tejas Networks with a flair for creating impactful software solutions.</h3>
 
-I've worked on various projects, both small and large-scale. From start to finish, I bring my skills in using version control systems (such as Git) and my focus on writing clean, maintainable, and well-documented code to every project.
+<p align="left">
+I am currently based in Gurgaon, India, bringing a robust background in software engineering with expertise in Java, React, Django, and a variety of other technologies. My career journey includes roles at Tejas Networks as an Senior R&D Engineer and Tata Consultancy Services as a System Engineer (Digital), where I have consistently driven improvements and innovated on existing systems.
 
-I'm a lifelong learner and am committed to staying up-to-date with the latest industry trends and best practices. Collaboration is key for me, and I enjoy working with others to find creative solutions to technical challenges.
+🔭 **Currently Working On:** Enhancing Network Management Systems at Tejas Networks, focusing on developing modern UIs using React and integrating them with robust backend systems.
 
-If you're looking for a front-end developer who brings passion, experience, and a love for HTML, CSS, Tailwind CSS, JavaScript, and TypeScript to the table, then I'm your guy! Let's work together and build something amazing!</p>
+🌱 **Learning:** Continuously evolving in the realm of both front-end and back-end technologies to better integrate my solutions across full development stacks.
+
+👯 **Looking to Collaborate:** On open-source projects or innovative tech initiatives that aim to make significant impacts in their fields.
+
+💬 **Ask Me About:** Web development, system architectures, integrating complex systems, and best practices in coding.
+
+📫 **Reach Out To Me At:** [anirudhmittal1117@gmail.com](mailto:anirudhmittal1117@gmail.com)
+
+📄 **Learn About My Experiences:** [LinkedIn Profile](https://www.linkedin.com/in/anirudh-mittal-a1908013a)
+
+### What I Bring to the Table
+- **Proven Experience:** From enhancing customer care applications to developing responsive and dynamic interfaces for complex systems.
+- **A Strong Foundation in Coding:** Extensive work with Java, React, Django, C++, HTML, CSS, SQL, and JavaScript among others.
+- **A Passion for Problem Solving:** Solved over 500 coding problems across platforms like Leetcode, GFG, and HackerRank, achieving notable rankings and certifications.
+
+If you're looking for a full-stack developer who brings passion, experience, and a love for Python, Java, JavaScript, and TypeScript to the table, then I'm your guy! Let's work together and build something amazing!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh1117&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh1117"/> </p>
 
 <p align="left"> <a href="https://github.com/anirudh1117/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh1117" alt="anirudh1117" /></a> </p>
 
-<h2> Skills: HTML/ CSS / TAILWIND CSS / JAVASCRIPT / TYPESCRIPT  </h2>
 
 - 🔭 I’m currently working on an application. 
 - 🌱 I’m currently practicing React JS by building applications.
